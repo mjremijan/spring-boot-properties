@@ -4,14 +4,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>org.thoth</groupId>
-        <artifactId>thoth-boot-properties</artifactId>
+        <groupId>org.spring</groupId>
+        <artifactId>spring-boot-properties</artifactId>
         <version>1.0.0.0-SNAPSHOT</version>
     </parent>
     
-    <artifactId>thoth-boot-properties-01-it_works</artifactId>
+    <artifactId>spring-boot-properties-01-it_works</artifactId>
     <packaging>jar</packaging>
 
-    <name>thoth-boot-properties-01-it_works</name>
+    <name>spring-boot-properties-01-it_works</name>
 
 </project>

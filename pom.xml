@@ -9,8 +9,8 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     
-    <groupId>org.thoth</groupId>
-    <artifactId>thoth-boot-properties</artifactId>
+    <groupId>org.spring</groupId>
+    <artifactId>spring-boot-properties</artifactId>
     <version>1.0.0.0-SNAPSHOT</version>
     
     <packaging>pom</packaging>
@@ -63,6 +63,7 @@
     </profiles>
     
     <modules>
-        <module>thoth-boot-properties-01-it_works</module>
+        <module>spring-boot-properties-01-it_works</module>
     </modules>
+    <name>spring-boot-properties</name>
 </project>
